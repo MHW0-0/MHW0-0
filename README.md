@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="./70826360a72047abc1ff324e7df77b65.gif" width="100%" alt="Animated retro banner" />
+
 # ✦ MAHA.EXE ✦
 
 `[ PLAYER ONE: MAHA ]` · `[ STATUS: LEARNING ]`
