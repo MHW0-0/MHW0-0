@@ -1,12 +1,12 @@
 <div align="center">
 
-# ✦ hello, i'm maha ✦
+# Maha Alanazi
 
-**computer science student · curious builder · lifelong learner**
+**Computer Science Student**
 
-`code`  ✧  `design`  ✧  `data`
+Princess Nourah bint Abdulrahman University
 
-*welcome to my little corner of github* ☾
+*Software Development · Data Analytics · UI/UX Design*
 
 </div>
 
