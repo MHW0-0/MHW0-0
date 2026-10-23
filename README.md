@@ -6,25 +6,19 @@
 
 **Computer Science student · Building things one project at a time**
 
-`JAVA`  `PYTHON`  `C++`  `JAVASCRIPT`
+<sub>✧ midnight pixels · lavender skies · small progress ✧</sub>
 
-━━━━━━━━━━ ✧ ━━━━━━━━━━
+━━━━━━━━━━ ✦ ━━━━━━━━━━
 
 </div>
 
-### > about_me.txt
+<table><tr><td width="70%" valign="top">
 
-```text
-name       : Maha
-studying   : Computer Science
-university : Princess Nourah bint Abdulrahman University
-interests  : Software Development / Data Analytics / UI-UX
-mode       : learning, creating, experimenting
-```
+### ☾ > about_me.txt
 
 I like exploring new technologies, designing useful interfaces, and turning ideas into working projects. Most of my projects are team efforts, and I enjoy learning along the way.
 
-### > inventory / tech_stack
+### ✧ > inventory / tech_stack
 
 **01 / Languages**
 
@@ -42,7 +36,7 @@ I like exploring new technologies, designing useful interfaces, and turning idea
 
 ![UI/UX Design](https://img.shields.io/badge/UI%2FUX_Design-9B72CF?style=for-the-badge)
 
-### > save_files / projects
+### ✦ > save_files / featured_projects
 
 | Project | Description |
 | :-- | :-- |
@@ -52,7 +46,7 @@ I like exploring new technologies, designing useful interfaces, and turning idea
 | [Data Professional Survey Dashboard](https://github.com/MHW0-0/Data-Professional-Survey-Dashboard) | Exploring survey data through interactive dashboards |
 | [Bike Sales](https://github.com/MHW0-0/Bike-Sales-) | A bike sales data analysis project |
 
-### > current_quest
+### ☾ > current_quest
 
 ```text
 [ ] Keep learning
@@ -64,6 +58,6 @@ I like exploring new technologies, designing useful interfaces, and turning idea
 
 ━━━━━━━━━━ ✧ ━━━━━━━━━━
 
-`< keep creating />`
+`< keep creating />` · `press start to learn something new`
 
 </div>
