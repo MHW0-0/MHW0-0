@@ -59,50 +59,61 @@ I enjoy building projects, exploring software development, working with data, an
 
 ## ✦ 03 / PROJECTS
 
-<details open>
-<summary><b>01 / CampusFix — Web Development</b></summary>
+*Little things I've built and explored.*
 
-A campus maintenance issue-reporting and tracking web application.
+<table>
+<tr>
+<td width="50%" valign="top">
 
-**[Explore repository →](https://github.com/MHW0-0/CampusFix)**
+### 01 · [CampusFix](https://github.com/MHW0-0/CampusFix)
 
-</details>
+`WEB DEVELOPMENT`
 
-<details open>
-<summary><b>02 / Uni-Spend — Student Finance</b></summary>
+Campus maintenance reporting and issue tracking.
 
-A student spending companion for keeping track of expenses.
+</td>
+<td width="50%" valign="top">
 
-**[Explore repository →](https://github.com/MHW0-0/uni-spend)**
+### 02 · [Uni-Spend](https://github.com/MHW0-0/uni-spend)
 
-</details>
+`STUDENT FINANCE`
 
-<details open>
-<summary><b>03 / Online Course Registration System</b></summary>
+A simple companion for tracking student expenses.
 
-An application for course registration.
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-**[Explore repository →](https://github.com/MHW0-0/online-course-registration-system)**
+### 03 · [Course Registration](https://github.com/MHW0-0/online-course-registration-system)
 
-</details>
+`APPLICATION DEVELOPMENT`
 
-<details open>
-<summary><b>04 / Data Professional Survey Dashboard</b></summary>
+An online course registration system.
 
-A dashboard for exploring and visualizing data professional survey results.
+</td>
+<td width="50%" valign="top">
 
-**[Explore repository →](https://github.com/MHW0-0/Data-Professional-Survey-Dashboard)**
+### 04 · [Data Survey Dashboard](https://github.com/MHW0-0/Data-Professional-Survey-Dashboard)
 
-</details>
+`DATA VISUALIZATION`
 
-<details open>
-<summary><b>05 / Bike Sales — Data Analysis</b></summary>
+Exploring data professional survey results.
 
-A project exploring bike sales data.
+</td>
+</tr>
+<tr>
+<td colspan="2" valign="top">
 
-**[Explore repository →](https://github.com/MHW0-0/Bike-Sales-)**
+### 05 · [Bike Sales](https://github.com/MHW0-0/Bike-Sales-)
 
-</details>
+`DATA ANALYSIS`
+
+Exploring bike sales data and trends.
+
+</td>
+</tr>
+</table>
 
 ---
 
