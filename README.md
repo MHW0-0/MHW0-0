@@ -1,42 +1,30 @@
 <div align="center">
 
+# ✦ hello, i'm maha ✦
 
+**computer science student · curious builder · lifelong learner**
 
-# ✦ MAHA.EXE ✦
+`code`  ✧  `design`  ✧  `data`
 
-`[ PLAYER ONE ]` &nbsp; `[ CS STUDENT ]` &nbsp; `[ LEVEL: LEARNING ]`
-
-*creating, exploring, and collecting little wins along the way*
-
-`✧ ────────── ⋆ ☾ ⋆ ────────── ✧`
+*welcome to my little corner of github* ☾
 
 </div>
 
-## ☾ 01 / ABOUT ME
+---
 
+### ✧ a little about me
 
+I'm a Computer Science student at **Princess Nourah bint Abdulrahman University**.
 
-**Hi, I'm Maha!**
+I like turning ideas into projects, learning new tools, and making things that are both useful and fun. I enjoy collaborating with teammates and exploring software development, data, and UI/UX design.
 
-I'm a Computer Science student at Princess Nourah bint Abdulrahman University.
-
-I enjoy building projects, exploring software development, working with data, and designing interfaces. Most of my projects are built with teammates, and I'm always learning something new.
-
-```text
-> interests: coding | data | design
-> status:   learning & experimenting
-> next:     another fun project
-```
-
-
+> currently: learning, building, and figuring things out one project at a time.
 
 ---
 
 <div align="center">
 
-## ✧ 02 / TECH STACK
-
-*tools collected along the journey*
+### ⌘ my tech stack
 
 **⌘ Languages**
 
@@ -53,90 +41,40 @@ I enjoy building projects, exploring software development, working with data, an
 **⌘ Design**
 
 ![UI/UX Design](https://img.shields.io/badge/UI%2FUX_Design-9B72CF?style=for-the-badge)
-</div>
-
----
-
-## ✦ 03 / PROJECTS
-
-*Little things I've built and explored.*
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 01 · [CampusFix](https://github.com/MHW0-0/CampusFix)
-
-`WEB DEVELOPMENT`
-
-Campus maintenance reporting and issue tracking.
-
-</td>
-<td width="50%" valign="top">
-
-### 02 · [Uni-Spend](https://github.com/MHW0-0/uni-spend)
-
-`STUDENT FINANCE`
-
-A simple companion for tracking student expenses.
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 03 · [Course Registration](https://github.com/MHW0-0/online-course-registration-system)
-
-`APPLICATION DEVELOPMENT`
-
-An online course registration system.
-
-</td>
-<td width="50%" valign="top">
-
-### 04 · [Data Survey Dashboard](https://github.com/MHW0-0/Data-Professional-Survey-Dashboard)
-
-`DATA VISUALIZATION`
-
-Exploring data professional survey results.
-
-</td>
-</tr>
-<tr>
-<td colspan="2" valign="top">
-
-### 05 · [Bike Sales](https://github.com/MHW0-0/Bike-Sales-)
-
-`DATA ANALYSIS`
-
-Exploring bike sales data and trends.
-
-</td>
-</tr>
-</table>
-
----
-
-<div align="center">
-
-## ☄ 04 / GITHUB ACTIVITY
-
-Explore my repositories and contributions on [my GitHub profile](https://github.com/MHW0-0).
 
 </div>
 
 ---
 
+### ✦ things i've made
+
+| Project | A little about it |
+| :--- | :--- |
+| **[CampusFix](https://github.com/MHW0-0/CampusFix)** | A web app for reporting and tracking campus maintenance issues |
+| **[Uni-Spend](https://github.com/MHW0-0/uni-spend)** | A student-friendly expense tracker |
+| **[Online Course Registration](https://github.com/MHW0-0/online-course-registration-system)** | A course registration application |
+| **[Data Professional Survey Dashboard](https://github.com/MHW0-0/Data-Professional-Survey-Dashboard)** | Visualizing insights from survey data |
+| **[Bike Sales Analysis](https://github.com/MHW0-0/Bike-Sales-)** | Exploring bike sales data and trends |
+
+---
+
+### ☾ currently exploring
+
+```text
+[ + ] building more projects
+[ + ] improving my coding skills
+[ + ] learning through teamwork
+[ + ] experimenting with new ideas
+```
+
+---
+
 <div align="center">
 
-### ☆ 05 / NEXT QUESTS
+*thanks for stopping by* ✧
 
-`[ ] learn something new` &nbsp; `[ ] build more things` &nbsp; `[ ] have fun creating`
+**[see all my repositories](https://github.com/MHW0-0?tab=repositories)**
 
-`✧ ────────── ⋆ ☾ ⋆ ────────── ✧`
-
-**THANKS FOR VISITING!**
-
-`< keep creating />`
+`♡ keep creating ♡`
 
 </div>
