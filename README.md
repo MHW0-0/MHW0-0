@@ -1,10 +1,8 @@
 <div align="center">
 
-# Maha Alanazi
+# Maha
 
 **Computer Science Student**
-
-Princess Nourah bint Abdulrahman University
 
 *Software Development · Data Analytics · UI/UX Design*
 
