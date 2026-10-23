@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./70826360a72047abc1ff324e7df77b65.gif" width="100%" alt="Animated pixel art banner" />
+<img src="./39d469f7c5b88fa7bd349aa9f11d245a.gif" width="100%" alt="Dream into your happy place pixel-art night sky banner" />
 
 # ✦ MAHA.EXE ✦
 
